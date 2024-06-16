@@ -1,6 +1,6 @@
 # Comparative Internet Research: Longitudinal Insights and Methods
 
-# When
+## When
 Tuesday, 25 June 2024 
 From 1 pm to 3:30 pm
 
