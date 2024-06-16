@@ -5,11 +5,9 @@ Tuesday, 25 June 2024
 From 1 pm to 3:30 pm
 
 ## Where
-[Woolley Common Room N480](https://maps.sydney.edu.au/?room=A20.04.N480)
+[Woolley Common Room N480](https://maps.sydney.edu.au/?room=A20.04.N480), The University of Sydney
 
-<iframe src="https://maps.sydney.edu.au/?room=A20.04.N480" style="width: 500px; height: 130px; border: 0px"></iframe>
-
-The University of Sydney
+<iframe src="https://maps.sydney.edu.au/?room=A20.04.N480" style="width: 500px; height: 600px; border: 0px"></iframe>
 
 ## Program
 
@@ -33,3 +31,6 @@ The University of Sydney
 - Research paper: "Everyday Smartphone Use in 2023: Combining Survey, Mobile Experience Sampling, Logging, and Data Donation"
   
 The session will conclude with a discussion on comparative Internet research and its methods. 
+
+## Contact
+Francesco Bailo: Francesco.Bailo@sydney.edu.au, +61 (0)2 8627 6895
