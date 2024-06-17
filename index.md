@@ -6,7 +6,8 @@ From 1 pm to 3:30 pm
 
 ## Where
 [Woolley Common Room N480](https://maps.sydney.edu.au/?room=A20.04.N480), [John Woolley Building (A20)](https://maps.app.goo.gl/i23tFi3Z68gLsXpx6), The University of Sydney
-[How to reach the venue](how-to-reach-the-venue)
+
+[How to reach the venue](#how-to-reach-the-venue)
 
 ## Program
 
