@@ -6,8 +6,7 @@ From 1 pm to 3:30 pm
 
 ## Where
 [Woolley Common Room N480](https://maps.sydney.edu.au/?room=A20.04.N480), [John Woolley Building (A20)](https://maps.app.goo.gl/i23tFi3Z68gLsXpx6), The University of Sydney
-
-<a href = 'https://maps.sydney.edu.au/?room=A20.04.N480'><img src="A20.04.N480.png" alt="Map" width = "350"></a>
+[How to reach the venue](how-to-reach-the-venue)
 
 ## Program
 
@@ -34,3 +33,6 @@ The session will conclude with a discussion on comparative Internet research and
 
 ## Contact
 Francesco Bailo: Francesco.Bailo@sydney.edu.au, +61 (0)2 8627 6895
+
+## How to reach the venue
+<a href = 'https://maps.sydney.edu.au/?room=A20.04.N480'><img src="A20.04.N480.png" alt="Map" width = "350"></a>
