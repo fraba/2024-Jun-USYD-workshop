@@ -21,7 +21,7 @@ From 1 pm to 3:30 pm
 
 ### 2:15-3:30 pm **Second session**
 
-[Prof. Ariadne Vromen (Australian National Univeristy)](https://crawford.anu.edu.au/people/academic/ariadne-vromen) 
+[Prof. Ariadne Vromen (Australian National University)](https://crawford.anu.edu.au/people/academic/ariadne-vromen) 
 - Research methods: Qualitative Internet research
   
 [Dr. Francesco Bailo (University of Sydney)](https://www.sydney.edu.au/arts/about/our-people/academic-staff/francesco-bailo.html?apcode=ACADPROFILE300808)
