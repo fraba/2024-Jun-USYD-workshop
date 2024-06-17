@@ -7,7 +7,7 @@ From 1 pm to 3:30 pm
 ## Where
 [Woolley Common Room N480](https://maps.sydney.edu.au/?room=A20.04.N480), The University of Sydney
 
-<iframe src="https://maps.sydney.edu.au/?room=A20.04.N480" style="width: 500px; height: 400px; border: 0px"></iframe>
+<a><img src="A20.04.N480.png" alt="Map" width = 300 height = 400></a>
 
 ## Program
 
