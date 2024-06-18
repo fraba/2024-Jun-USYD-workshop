@@ -27,7 +27,7 @@ From 1 pm to 3:30 pm
 [Dr. Francesco Bailo (University of Sydney)](https://www.sydney.edu.au/arts/about/our-people/academic-staff/francesco-bailo.html?apcode=ACADPROFILE300808)
 - Research methods: Wikibase for mixed methods Internet research
   
-[Roland Toth](https://www.weizenbaum-institut.de/en/portrait/p/roland-toth/#page=1&sort=date)
+[Roland Toth (Weizenbaum Institut)](https://www.weizenbaum-institut.de/en/portrait/p/roland-toth/#page=1&sort=date)
 - Research paper: "Everyday Smartphone Use in 2023: Combining Survey, Mobile Experience Sampling, Logging, and Data Donation"
   
 The session will conclude with a discussion on comparative Internet research and its methods. 
